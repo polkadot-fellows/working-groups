@@ -36,7 +36,7 @@ The process for submitting WGs is open to **Fellows** (i.e Rank III to IX). Anyo
 
 To submit a WG, follow these steps:
   * Fork the `working-groups` repository.
-  * Copy the `0000-WG-template.md` file into the `list` folder and rename it to match the title of the WG.
+  * Copy the `0000-WG-template.md` file into the `wg` folder and rename it to match the title of the WG.
   * Fill out the WG template and open a PR.
   * Announce the WG to the Fellowship and wait at least 2 weeks.
   * Put the WG to a vote.
